@@ -16,7 +16,7 @@ const Contact = () => (
         </a>
         </div>
         <div className='ContactVasuAlign'>
-       <a href='https://api.whatsapp.com/send?phone=8008434124' > <CircleUserRound className='contactGmail1'/> </a>
+       <a href='https://api.whatsapp.com/send?phone=+91 8008434124' > <CircleUserRound className='contactGmail1'/> </a>
        </div>
        <div>
        <div className='ContactVasuAlign'> 
