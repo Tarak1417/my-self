@@ -37,7 +37,7 @@ const Contact = () => (
         </div>
         <div className='ContactVasuAlignee'>
       
-       <a href="https://api.whatsapp.com/send?phone=8008434124">  <CircleUserRound className='contactGmail1ee'/></a>
+       <a href="https://api.whatsapp.com/send?phone= +91 8008434124">  <CircleUserRound className='contactGmail1ee'/></a>
        </div>
        
        <div className='ContactVasuAlignee'> 
