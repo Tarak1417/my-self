@@ -1,0 +1,55 @@
+.header-container {
+    height:6vh;
+    width:100vw;
+    background-color:black;
+    color: rgb(210, 40, 162);
+    text-align:center;
+    margin-top:px;
+    display: flex;
+    flex-direction:row;
+    justify-content: flex-end;
+    font-size: 5px;
+    color: white;
+}
+
+
+.arrangeItem{
+    display: flex;
+    flex-direction:row;
+    justify-content: space-around;
+    align-items: center;
+}
+.homeHedi {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 14px;
+    margin-right: 12px;
+    color:white;
+    font-family: caveat;
+    margin-right: 60px;
+    text-decoration: none;
+}
+.personlWebsite {
+    font-family: cursive;
+    font-size: 18px;
+    font-weight:29px;
+    color:white;
+}
+.venkateswarawsd{
+   
+    padding-right: 820px;
+    font-size: 14px;
+    margin-right: 0px;
+}
+.venkateswarawsd:hover{
+    
+   color: aqua; 
+    font-size: 14px;
+    margin-right:0px;
+}
+
+.headerCoala{
+    font-size: 4rem;
+    margin-top: 16px;
+
+}
+
